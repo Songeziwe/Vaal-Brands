@@ -1,0 +1,50 @@
+/* Style for header section
+ *
+ * Auhtor: Songeziwe S. Soboois
+ * Date: September 06, 2019
+ */
+
+body {
+    background-color: white;
+}
+header {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+header nav .logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 50%; 
+}
+header nav {
+    width: 900px;
+    margin: 0 auto;
+    height: 100px;
+    padding: 0px;
+}
+nav ul{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    vertical-align: top;*/
+}
+
+header nav ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+header nav ul li a {
+    
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    line-height: 80px;
+    padding: 5px 15px;
+    opacity: 0.7;
+}
