@@ -1,2 +1,0 @@
-# Vaal-Brands
-Company website
