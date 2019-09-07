@@ -1,15 +1,13 @@
-/* Styles for Main Content
+/* Styles for Footer
  *
- * Author : 
+ * Author : Bongani Motholo
  * Date : 06 September 2019
  */
 
 
 .footer{
     display: grid;
-    background-color: azure;
-    
-        
+    background-color: azure;     
 }
 .contacts{
     text-align: left;
