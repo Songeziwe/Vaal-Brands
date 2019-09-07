@@ -5,23 +5,27 @@
  */
 
 
-.footer{
-    display: grid;
+footer{
+    display: inline-block;
     background-color: azure;
-    
+    text-align: center;
         
 }
 .contacts{
-    text-align: left;
+    padding-right: 100px;
+    padding-left: 100px;
+    
+    
 }
 .map{
-    padding-right: 200px;
     text-align: center;
 }
 .form{
+    margin-right: 0px;
     padding-right: 200px;
-    display: inline-block;
+    padding-left: 100px;
     text-align:right;
+    right: 0px;
 }
 input{
     margin: 8px 0;
