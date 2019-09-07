@@ -4,18 +4,10 @@
  * Date : 06 September 2019
  */
 
-
-<<<<<<< HEAD
 footer{
     display: inline-block;
     background-color: azure;
     text-align: center;
-        
-=======
-.footer{
-    display: grid;
-    background-color: azure;     
->>>>>>> 45f387c9fcd03a8dbcbd783bb48da0abcd5baf7f
 }
 .contacts{
     padding-right: 100px;
