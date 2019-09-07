@@ -5,20 +5,30 @@
  */
 
 footer{
-    display: inline-block;
-    background-color: azure;
+    width: 100%;
+    background-color: #eee;
     text-align: center;
+    padding: 20px;
 }
 .contacts{
+    display: inline-block;
     padding-right: 100px;
     padding-left: 100px;
+    height: 100px;
     
+   
     
+}
+#contact {
+    font-weight: bold;
 }
 .map{
+    display: inline-block;
     text-align: center;
+    height: 100px;
 }
 .form{
+    display: inline-block;
     margin-right: 0px;
     padding-right: 200px;
     padding-left: 100px;
@@ -26,9 +36,10 @@ footer{
     right: 0px;
 }
 input{
+    height: 25px;
     margin: 8px 0;
-    border: 2px solid blue;
-    border-radius: 4px;
+    border: 2px inset ;
+    border-radius: 6px;
     
 }
 input[type=textarea]{
@@ -36,13 +47,11 @@ input[type=textarea]{
     
 }
 input[type=submit]{
+    border: outset;
     border-radius: 4px;
     cursor: pointer;
     float: right;
+    height: 30px;
+    background-color: #4CAF50;
     
-}
-.col{
-    float: left;
-    width: 75%;
-    margin-top: 6px;
 }
