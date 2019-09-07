@@ -1,5 +1,22 @@
 /* Styles for Main Content
  *
- * Author : 
+ * Author : Songeziwe S. Soboois
  * Date : 06 September 2019
  */
+
+
+.main-content {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    height: 500px;
+    
+}
+
+main .description-wrapper, .customer-feedback {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    height: 50%;
+    background-color: white;
+}
